@@ -1,0 +1,5 @@
+INVALID_DELIMITER = 'Invalid Delimiter'
+NOT_MEMBER = 'The user is not a member'
+ALREADY_MEMBER = 'The user is already a member'
+NOT_ADMIN = 'This user is not an admin'
+UNAUTHORIZED = 'Unauthorized: access denied'

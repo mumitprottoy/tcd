@@ -1,0 +1,1 @@
+STR_ID_DELIMITERS = '_', '.', ''
